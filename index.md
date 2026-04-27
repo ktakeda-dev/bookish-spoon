@@ -1,0 +1,10 @@
+---
+layout: home
+title: myTE Working Hours Input
+---
+
+## myTE Working Hours Input
+
+Welcome to the support page for the **myTE Working Hours Input** extension.
+
+- [Privacy Policy]({{ site.baseurl }}/myte-working-hours-input/privacy-policy.html)
