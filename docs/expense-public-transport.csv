@@ -1,0 +1,4 @@
+From,To,Trips,OneTripAmount,FromLocation,ToLocation,ChargeCode
+2026/4/1,2026/4/1,2,500,Shibuya,Shinjuku,CFL1J001
+2026/4/2,2026/4/2,2,800,Shibuya,Roppongi,CFL1J001
+2026/4/3,2026/4/3,1,1200,Shibuya,Yokohama,CFL1J001
